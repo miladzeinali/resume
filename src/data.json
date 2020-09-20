@@ -1,0 +1,55 @@
+{
+    "title1":"سلام من میلاد زینلی هستم",
+    "title2":"Hello I'm Milad Zeinali    ",
+    "subtitle":"Full Stack Dev | From Iran",
+    "links":{
+        "instagram":"https://www.instagram.com/miladzeinali_/",
+        "github":"https://github.com/miladzeinali"
+    },
+    "sections":[
+        {
+            "title":"About",
+            "items":[
+                {
+                    "type":"p",
+                    "title":"man 26 sal daram az bafq yazd"
+                }
+            ]
+        },
+        {
+            "title":"skills",
+            "items":[
+                {
+                    "type":"card",
+                    "content":{
+                        "imageclass":"programming lang-javascript",
+                        "title":"Javascripts"
+                    }
+                },
+                {
+                    "type":"card",
+                    "content":{
+                        "imageclass":"programming lang-python",
+                        "title":"Python"
+                    }
+                },
+                
+                {
+                    "type":"card",
+                    "content":{
+                        "imageclass":"programming lang-css",
+                        "title":"CSS"
+                    }
+                },
+                {
+                    "type":"card",
+                    "content":{
+                        "imageclass":"programming lang-html",
+                        "title":"HTML"
+                    }
+                }
+                
+            ]
+        }
+    ]
+}

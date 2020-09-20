@@ -1,0 +1,29 @@
+.down{
+  transform: translateY(-200);
+  margin-top: 30%;
+}
+.fullpage{
+    height: 90vh;
+    width: 100vw;
+    display: flex;
+    flex: auto;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    background-color: blue;
+  }
+
+.first{
+  background-color: blue;
+}
+.icon{
+  margin: 150px;
+  height: 60px;
+  align-items: center;
+  background-color: white;
+  border-radius: 5px;
+  width: 200px;
+  display: flex;
+  justify-content: center;
+}
+

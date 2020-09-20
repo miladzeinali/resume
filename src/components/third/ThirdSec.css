@@ -1,0 +1,38 @@
+.fullpage1{
+    height: 100vh;
+    width: 100vw;
+    display: flex;
+    flex: auto;
+    justify-content: center;
+    align-items: center;
+  }
+  .all{
+    margin: 5px;
+    flex: auto;
+    justify-content: center;
+    align-items: center;
+    display: flex;
+  }
+.title{
+  margin: 5px;
+}
+#title{
+  margin: 10px;
+  height: 200px;
+  width: 150px;
+  /* background-color: bisque; */
+}
+.skill{
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
+  transform: translateY(300px);
+  font-weight: bolder;
+  font-size: 45px;
+}
+h2{
+  flex: auto;
+  justify-content: center;
+  align-items: center;
+}
+
